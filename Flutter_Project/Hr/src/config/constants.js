@@ -1,0 +1,18 @@
+module.exports = {
+  PORT: process.env.PORT || 5000,
+  NODE_ENV: process.env.NODE_ENV || "development",
+
+  // Employee
+  EMPLOYEE_STATUS: ["ACTIVE", "INACTIVE", "RESIGNED"],
+
+  // Attendance
+  ATTENDANCE_STATUS: ["PRESENT", "ABSENT", "HALF_DAY", "LEAVE", "HOLIDAY", "WEEK_OFF"],
+
+  // Payroll
+  PAYROLL_STATUS: ["GENERATED", "PAID"],
+  DEFAULT_WORKING_DAYS_PER_MONTH: 22,
+
+  // Leave
+  LEAVE_TYPES: ["SICK", "CASUAL", "ANNUAL", "UNPAID", "MATERNITY", "PATERNITY"],
+  LEAVE_REQUEST_STATUS: ["PENDING", "APPROVED", "REJECTED", "CANCELLED"],
+};

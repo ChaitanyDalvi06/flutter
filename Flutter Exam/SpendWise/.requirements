@@ -1,0 +1,14 @@
+Case Study 24: Expense Tracker
+Problem Statement
+Individuals want to monitor and categorize their spending habits. This project focuses on
+designing and developing a Flutter-based mobile application related to 'Expense Tracker'.
+Students are expected to understand the real-world problem, analyze user requirements, and
+design an intuitive mobile interface. The application should demonstrate how mobile technology
+can simplify everyday tasks and improve user experience through efficient design and
+functionality.
+Detailed Feature List
+Charts using Flutter chart packages, SQL database, Form validation for expense
+entries, DateTime pickers, Stateful widgets for financial summaries, JSON export for
+reports.
+Expected Outcome
+Create a spending tracker that records transactions and analyzes expense patterns.

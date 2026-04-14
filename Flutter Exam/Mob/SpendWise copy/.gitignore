@@ -1,0 +1,14 @@
+# Environment variables - NEVER commit these
+Backend/.env
+Backend/node_modules/
+
+# Flutter
+Frontend/.dart_tool/
+Frontend/build/*
+!Frontend/build/web
+Frontend/.flutter-plugins
+Frontend/.flutter-plugins-dependencies
+Frontend/pubspec.lock
+
+# macOS
+.DS_Store

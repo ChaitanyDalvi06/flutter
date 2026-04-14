@@ -1,0 +1,9 @@
+Enterprise HR Management & Payroll System
+An HR platform to manage employee records, attendance, leave, and payroll processing. Salary reports should be generated automatically.
+
+Key Focus Areas:
+Employee lifecycle management
+Attendance & leave workflows
+Payroll calculation
+HR analytics
+HR Payroll Enterprise

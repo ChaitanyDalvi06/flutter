@@ -1,0 +1,51 @@
+name: expense_tracker
+description: "Expense Tracker – Professional Flutter App with SQL database, charts, and JSON export."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # HTTP client for Node.js / MySQL backend
+  http: ^1.2.2
+
+  # Auth persistence
+  shared_preferences: ^2.3.2
+
+  # State management
+  provider: ^6.1.2
+
+  # Charts
+  fl_chart: ^0.69.0
+
+  # Date & Number formatting
+  intl: ^0.19.0
+
+  # JSON export + file sharing
+  share_plus: ^10.1.2
+
+  # PDF bill generation
+  pdf: ^3.11.0
+  printing: ^5.13.1
+  path_provider: ^2.1.4
+
+  # UI extras
+  google_fonts: ^6.2.1
+  flutter_animate: ^4.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Flutter_Logo.png
