@@ -2,7 +2,7 @@
 
 # 🦋 Flutter Projects Collection
 
-### by [ChaitanyDalvi06](https://github.com/ChaitanyDalvi06)
+### by [Chaitanya Dalvi](https://github.com/ChaitanyDalvi06)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
@@ -238,7 +238,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **Chaitanya Dalvi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChaitanyDalvi06-181717?logo=github)](https://github.com/ChaitanyDalvi06)
+[![GitHub](https://img.shields.io/badge/GitHub-Chaitanya_Dalvi-181717?logo=github)](https://github.com/ChaitanyDalvi06)
 
 ---
 
